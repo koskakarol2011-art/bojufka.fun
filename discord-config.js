@@ -15,7 +15,7 @@ const DISCORD_CONFIG = {
     ENABLE_WEBHOOK: true,
     
     // Fallback email notification (if webhook fails)
-    FALLBACK_EMAIL: 'budzikxdxd@gmail.com'
+    FALLBACK_EMAIL: 'biznesszyszka@gmail.com'
 };
 
 
